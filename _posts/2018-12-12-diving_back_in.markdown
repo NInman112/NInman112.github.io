@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Diving Back In"
-date:       2018-12-12 23:52:42 +0000
+date:       2018-12-12 18:52:43 -0500
 permalink:  diving_back_in
 ---
 
